@@ -1,0 +1,20 @@
+div{
+    width: 200px;
+    height: 200px;
+}
+
+#primero{
+    background-color: blue;
+}
+
+#segundo{
+    background-color: red;
+}
+
+#tercero{
+    background-color: green;
+}
+
+#cuarto{
+    background-color: yellow;
+}
